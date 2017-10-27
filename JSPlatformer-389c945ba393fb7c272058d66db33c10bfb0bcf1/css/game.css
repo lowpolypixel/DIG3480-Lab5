@@ -1,0 +1,22 @@
+.background 	{ 
+					background-color: #5F8298;
+					background-image: url("https://static.tumblr.com/f143c20229e2d722524f323a2b03a4b5/fpadmnv/zxJn93oth/tumblr_static_ed117ym9rqgo0w88wg0k00ss8_640_v2.gif");
+                 	table-layout: fixed;
+                 	border-spacing: 0;
+                }
+
+.background td 	{
+					padding: 0;
+				}
+
+
+.lava          	{
+					background: #B29E5F;
+				}
+
+.wall          { background: #999396;   }
+.floater {background: #654077;}
+
+.game {
+  position: relative;
+}
